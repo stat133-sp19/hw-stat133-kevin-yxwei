@@ -5,6 +5,7 @@ output: github_document
 ---
 
 <div align=center>
+<font size=6>
 # Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
 
 ```{r echo=FALSE,results='hide',include=FALSE}
