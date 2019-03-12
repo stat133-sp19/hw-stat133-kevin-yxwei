@@ -2,7 +2,7 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: Your name (Yuxuan Wei)
+- Name: Yuxuan Wei
 - Github username: kevin-yxwei
 - Email: address kevin-bisp@berkeley.edu
 - Lab section: 109
