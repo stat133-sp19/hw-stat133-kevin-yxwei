@@ -2,8 +2,11 @@ workout01-Yuxuan-Wei
 ================
 Yuxuan Wei
 
-<div align=center>
-<font size=6> Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
+<div align=center font-size=6>
+<font size=6>
+-------------
+
+Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
 
 </font>
 
@@ -76,7 +79,6 @@ Overall, the Durant's trade is not just a simple trade that adds another star in
 1.Warriors gets another reliable shoter with high hit rate.
 2.Warriors gets a player who is good at 2PT field goals, which help them to enrich their offensive play tactics.
 3.Warriors gets a player who can score at any position and make other teammate more effecient.
-
 Everyone now would say, Durant's trade is a fantastic trade for the Warriors.
 </font>
 
