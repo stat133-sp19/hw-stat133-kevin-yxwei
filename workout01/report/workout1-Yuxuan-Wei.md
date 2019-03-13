@@ -1,12 +1,9 @@
-workout01-Yuxuan-Wei
+Workout 1
 ================
 Yuxuan Wei
 
-<div align=center font-size=6>
-<font size=6>
--------------
-
-Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
+<div align=center>
+<font size=6> Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
 
 </font>
 
@@ -76,9 +73,13 @@ After considering the effect of Durant on Warriors' offensive play, we also need
 Before joined the Warriors,Durent has already been considered as one of the best players in the league. He has to make a lot of shots and face huge defense pressure every night on the count since most of the time, the whole team is count on him own. But things changed after he joined the Warriors. According to the above table, Durant make less number of shots then he used to make in the previous season(according to the from <https://www.nba.com/players/kevin/durant/>) which means he is less tired since he has many teammates like Curry,Thompson, Iguodala and Green to rely on. He plays less minutes on the count than precious season(according to the from <https://www.nba.com/players/kevin/durant/>) and become more energetic, which helps him to raise his hit rate.What's more,when facing teams with really good defense, Curry and Thompson will attract the defense attention from their opponent team, which makes him face less defense pressure than usual, he can score easily. The Warriors team is making Durant to score more effective and comfortable.
 
 Overall, the Durant's trade is not just a simple trade that adds another star into a team which full of stars. And the whole league know that Warriors has the best offensive play due to their teamwork rather than let stars play on their own. What Durant actually bring to the Warriors' offensive play is as follows:
+
 1.Warriors gets another reliable shoter with high hit rate.
+
 2.Warriors gets a player who is good at 2PT field goals, which help them to enrich their offensive play tactics.
+
 3.Warriors gets a player who can score at any position and make other teammate more effecient.
+
 Everyone now would say, Durant's trade is a fantastic trade for the Warriors.
 </font>
 
