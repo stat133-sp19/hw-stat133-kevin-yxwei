@@ -3,7 +3,7 @@ Workout 1
 Yuxuan Wei
 
 <div align=center>
-<font size=6> Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
+<font size=6> #Why Durant's trade make Goldon State Warriors' offensive play more unstoppable?
 
 </font>
 
